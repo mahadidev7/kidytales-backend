@@ -1,0 +1,87 @@
+[
+  {
+    id: 1,
+    name: "Fairy Tales',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Fables',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Folktales',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Myths and Legends',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Tall Tales',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Nursery Rhymes',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Classic Literature Adaptations',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Alphabet & Phonics Stories',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Number & Counting Stories',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Science for Kids',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "History Stories',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Moral Values',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Cultural Stories',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Language Learning Stories (e.g., English Practice)',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Time-Telling Stories',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Emotional Intelligence Stories',
+    backgroundColor: '#000'
+  },
+  {
+    id: 1,
+    name: "Memory Challenge Tales',
+    backgroundColor: '#000'
+  },
+]
