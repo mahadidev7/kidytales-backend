@@ -1,12 +1,87 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Fairy Tales",
-    "backgroundColor": "#000"
+    "backgroundColor": "#000000"
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Fables",
-    "backgroundColor": "#000"
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 3,
+    "name": "Folktales",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 4,
+    "name": "Myths and Legends",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 5,
+    "name": "Tall Tales",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 6,
+    "name": "Nursery Rhymes",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 7,
+    "name": "Classic Literature Adaptations",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 8,
+    "name": "Alphabet & Phonics Stories",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 9,
+    "name": "Number & Counting Stories",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 10,
+    "name": "Science for Kids",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 11,
+    "name": "History Stories",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 12,
+    "name": "Moral Values",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 13,
+    "name": "Cultural Stories",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 14,
+    "name": "Language Learning Stories (e.g., English Practice)",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 15,
+    "name": "Time-Telling Stories",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 16,
+    "name": "Emotional Intelligence Stories",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": 17,
+    "name": "Memory Challenge Tales",
+    "backgroundColor": "#000000"
   }
 ]
