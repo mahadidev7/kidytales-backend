@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "name": "Fairy Tales',
-    "backgroundColor": '#000'
+    "name": "Fairy Tales",
+    "backgroundColor": "#000"
   },
   {
     "id": "2",
-    "name": "Fables',
-    "backgroundColor": '#000'
-  },
+    "name": "Fables",
+    "backgroundColor": "#000"
+  }
 ]
