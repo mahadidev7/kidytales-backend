@@ -1,87 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Fairy Tales",
+    "name": "Princess Stories",
     "backgroundColor": "#46c3db"
   },
   {
     "id": 2,
-    "name": "Fables",
+    "name": "Animal Stories",
     "backgroundColor": "#2d6cdf"
   },
   {
     "id": 3,
-    "name": "Folktales",
+    "name": "Classic Fairy Tales",
     "backgroundColor": "#17b978"
   },
   {
     "id": 4,
-    "name": "Myths and Legends",
+    "name": "Animal Fairy Tales",
     "backgroundColor": "#fc5c9c"
   },
   {
     "id": 5,
-    "name": "Tall Tales",
+    "name": "Around the World",
     "backgroundColor": "#feb062"
   },
   {
     "id": 6,
-    "name": "Nursery Rhymes",
+    "name": "Christmas Stories",
     "backgroundColor": "#fc5185"
   },
   {
     "id": 7,
-    "name": "Classic Literature Adaptations",
+    "name": "Fairy Tales",
     "backgroundColor": "#575151"
-  },
-  {
-    "id": 8,
-    "name": "Alphabet & Phonics Stories",
-    "backgroundColor": "#43dde6"
-  },
-  {
-    "id": 9,
-    "name": "Number & Counting Stories",
-    "backgroundColor": "#071e3d"
-  },
-  {
-    "id": 10,
-    "name": "Science for Kids",
-    "backgroundColor": "#3f3b3b"
-  },
-  {
-    "id": 11,
-    "name": "History Stories",
-    "backgroundColor": "#ba53de"
-  },
-  {
-    "id": 12,
-    "name": "Moral Values",
-    "backgroundColor": "#88bef5"
-  },
-  {
-    "id": 13,
-    "name": "Cultural Stories",
-    "backgroundColor": "#fc85ae"
-  },
-  {
-    "id": 14,
-    "name": "Language Learning Stories (e.g., English Practice)",
-    "backgroundColor": "#9e579d"
-  },
-  {
-    "id": 15,
-    "name": "Time-Telling Stories",
-    "backgroundColor": "#574b90"
-  },
-  {
-    "id": 16,
-    "name": "Emotional Intelligence Stories",
-    "backgroundColor": "#303a52"
-  },
-  {
-    "id": 17,
-    "name": "Memory Challenge Tales",
-    "backgroundColor": "#086972"
   }
 ]
