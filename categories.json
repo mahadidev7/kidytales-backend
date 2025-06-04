@@ -2,86 +2,86 @@
   {
     "id": 1,
     "name": "Fairy Tales",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#46c3db"
   },
   {
     "id": 2,
     "name": "Fables",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#2d6cdf"
   },
   {
     "id": 3,
     "name": "Folktales",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#c5e3f6"
   },
   {
     "id": 4,
     "name": "Myths and Legends",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#fc5c9c"
   },
   {
     "id": 5,
     "name": "Tall Tales",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#fcefee"
   },
   {
     "id": 6,
     "name": "Nursery Rhymes",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#fc5185"
   },
   {
     "id": 7,
     "name": "Classic Literature Adaptations",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#364f6b"
   },
   {
     "id": 8,
     "name": "Alphabet & Phonics Stories",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#43dde6"
   },
   {
     "id": 9,
     "name": "Number & Counting Stories",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#f4fa9c"
   },
   {
     "id": 10,
     "name": "Science for Kids",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#f469a9"
   },
   {
     "id": 11,
     "name": "History Stories",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#ba53de"
   },
   {
     "id": 12,
     "name": "Moral Values",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#88bef5"
   },
   {
     "id": 13,
     "name": "Cultural Stories",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#fc85ae"
   },
   {
     "id": 14,
     "name": "Language Learning Stories (e.g., English Practice)",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#9e579d"
   },
   {
     "id": 15,
     "name": "Time-Telling Stories",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#574b90"
   },
   {
     "id": 16,
     "name": "Emotional Intelligence Stories",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#303a52"
   },
   {
     "id": 17,
     "name": "Memory Challenge Tales",
-    "backgroundColor": "#000000"
+    "backgroundColor": "#086972"
   }
 ]
