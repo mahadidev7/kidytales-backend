@@ -12,7 +12,7 @@
   {
     "id": 3,
     "name": "Folktales",
-    "backgroundColor": "#c5e3f6"
+    "backgroundColor": "#17b978"
   },
   {
     "id": 4,
@@ -22,7 +22,7 @@
   {
     "id": 5,
     "name": "Tall Tales",
-    "backgroundColor": "#fcefee"
+    "backgroundColor": "#feb062"
   },
   {
     "id": 6,
@@ -32,7 +32,7 @@
   {
     "id": 7,
     "name": "Classic Literature Adaptations",
-    "backgroundColor": "#364f6b"
+    "backgroundColor": "#575151"
   },
   {
     "id": 8,
@@ -47,7 +47,7 @@
   {
     "id": 10,
     "name": "Science for Kids",
-    "backgroundColor": "#f469a9"
+    "backgroundColor": "#3f3b3b"
   },
   {
     "id": 11,
