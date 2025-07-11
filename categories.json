@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "name": "Princess Stories",
+    "name": "Fantasy & Fairy Tales",
     "backgroundColor": "#46c3db"
   },
   {
     "id": 2,
-    "name": "Animal Stories",
-    "backgroundColor": "#2d6cdf"
+    "name": "Fairy Tales",
+    "backgroundColor": "#575151"
   },
   {
     "id": 3,
-    "name": "Classic Fairy Tales",
-    "backgroundColor": "#17b978"
+    "name": "Adventure & Exploration",
+    "backgroundColor": "#575151"
   },
   {
     "id": 4,
-    "name": "Animal Fairy Tales",
-    "backgroundColor": "#fc5c9c"
+    "name": "Imagination & Dreams",
+    "backgroundColor": "#575151"
   },
   {
     "id": 5,
-    "name": "Around the World",
-    "backgroundColor": "#feb062"
+    "name": "School & Friendship",
+    "backgroundColor": "#575151"
   },
   {
     "id": 6,
-    "name": "Christmas Stories",
-    "backgroundColor": "#fc5185"
+    "name": "Funny & Silly Stories",
+    "backgroundColor": "#575151"
   },
   {
     "id": 7,
-    "name": "Fairy Tales",
+    "name": "Animal Tales",
     "backgroundColor": "#575151"
   }
 ]
